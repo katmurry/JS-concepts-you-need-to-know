@@ -6,7 +6,7 @@ Contributors welcome! If you see any concepts not properly represented... please
 
 ##JS Concepts Explained with Code Examples
 
-* Closures
+* [Closures](https://github.com/katmurry/JS-concepts-you-need-to-know/blob/master/js/closures.js)
 
 ##JS Concepts that are in WIP
 
@@ -27,4 +27,6 @@ Contributors welcome! If you see any concepts not properly represented... please
 - JS For..In loops
 - JS ES5 Immediately Invoked Function Expression (IIFE)
 
-https://www.codementor.io/javascript/tutorial/top-ten-things-beginners-must-know-javascript
+Inspiration for this repo:
+
+https://github.com/vasanthk/js-bits/tree/master/js

@@ -26,6 +26,6 @@ drive("left", "right"); // "You want to drive left then right"
 $(function(){
   var groceryList = []; //an empty array
   $(".groceryItem").click(function(){ //this closure has access to the groceryList variable
-    groceryList.push(this.prop("name")); //update the groceryList in the outer function's scope with the items pushed to the array
+    groceryList.push(this.prop("name")); //update the groceryList in the outer function's scope and push the name of the item to the groceryList array
   });
 });
